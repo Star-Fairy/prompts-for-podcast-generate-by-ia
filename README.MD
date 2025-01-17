@@ -41,12 +41,14 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - [Leonardo.AI](https://leonardo.ai/)
 - [Cloud Google](https://cloud.google.com/text-to-speech?hl=pt_br)
 - [Capcut](https://www.capcut.com/pt-br/)
+- [Groovepad](https://play.google.com/store/apps/details?id=com.easybrain.make.music&hl=pt-BR&pli=1)
 
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
+- Audio gerado pela Google Cloud (Text to Speech)
+- Leonard AI Para gerar capas
+- Groovepad para gerar áudio de início 
 - Capcut para tratar aúdio e adicionar sons de fundo
 
 ## 📚 Materiais
