@@ -40,8 +40,9 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - [ChatGPT](https://chat.openai.com/) 
 - [Leonardo.AI](https://leonardo.ai/)
 - [Cloud Google](https://cloud.google.com/text-to-speech?hl=pt_br)
-- [Capcut](https://www.capcut.com/pt-br/)
 - [Groovepad](https://play.google.com/store/apps/details?id=com.easybrain.make.music&hl=pt-BR&pli=1)
+- [Capcut](https://www.capcut.com/pt-br/)
+
 
 ## ✨ Como foi feito ?
 
