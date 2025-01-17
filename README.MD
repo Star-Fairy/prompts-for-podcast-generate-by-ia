@@ -85,4 +85,4 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
   
 
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Stella Benoliel](https://github.com/Star-Fairy)
