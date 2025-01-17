@@ -42,6 +42,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - [Cloud Google](https://cloud.google.com/text-to-speech?hl=pt_br)
 - [Groovepad](https://play.google.com/store/apps/details?id=com.easybrain.make.music&hl=pt-BR&pli=1)
 - [Capcut](https://www.capcut.com/pt-br/)
+- [Notion](https://www.notion.com/pt)
 
 
 ## ✨ Como foi feito ?
